@@ -38,4 +38,8 @@ A simple, responsive Calculator App built using **HTML**, **CSS**, and **JavaScr
 
 ## 📸 Demo
 
-https://github.com/YASHSHARMA222/Calculator-App/blob/eaf776d73a56c953bc71ef3348257eb2007d7ec4/insta%20calculator%20video.mp4
+https://github.com/YASHSHARMA222/Calculator-App/blob/eaf776d73a56c
+
+https://github.com/user-attachments/assets/5267f390-7397-49dc-97fd-4585bc7a265f
+
+953bc71ef3348257eb2007d7ec4/insta%20calculator%20video.mp4
